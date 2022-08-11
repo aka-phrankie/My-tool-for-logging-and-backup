@@ -1,11 +1,11 @@
-# 个人工具箱 0.1.3
+# 个人工具箱
 
 ## 更新记录
 
 - 0.1.0 ( 2022 年 08 月 06 日 ) 启动
 - 0.1.1 ( 2022 年 08 月 06 日 ) 提交了未完善的初版，只记录了脑海里能够想到的和当前可目视到的软件。
 - 0.1.2 ( 2022 年 08 月 07 日 ) 今天准备按照电脑盘符的顺序来记录软件，防止疏漏。预计下周三完成 1.0 的正式版。
-- 0.1.3 ( 2022 年 8 月 11 日 ) 电脑已经重装完成了，整个感觉就是非常爽。但是我在使用git来提交信息的时候，PR到了Fork的作者的 remotes/origin/main 上，其实我是看到我的 brunch 在 master 上，我想改到我的 main 上，造成了给上游开发者的无理由的通知困扰（或许），我已经紧急关闭与删除PR，避免无意义的骚扰了，我把我 Fork 的库也删除了，怕以后我的git操作还会出现出现这样的误解时间，还蛮抱歉的。
+- 0.1.3 ( 2022 年 8 月 11 日 ) 电脑已经重装完成了，整个感觉就是非常爽。但是我在使用 git 来提交信息的时候，PR 到了 Fork 的作者的 remotes/origin/main 上，其实我是看到我的 brunch 在 master 上，我想改到我的 main 上，造成了给上游开发者的无理由的通知困扰 ( 或许 ) ，我已经紧急关闭与删除 PR，避免无意义的骚扰了，我把我 Fork 的库也删除了，怕以后我的 git 操作还会出现出现这样的误解时间，还蛮抱歉的。
 
 ## 前言
 
@@ -26,24 +26,30 @@ win 平台——大家都明白，不同的开发单位对标准的理解不同�
 
 对过往电脑生活经验进行整理沉淀，希望下一次重装系统 ( 下一台电脑 ) 不出现重复的不舒服事情。
 
-### 状态栏与后台软件
-
-| 系统增强  | 美化软件 |
-|---|---|
-| TrafficMonitor  | Wallpaper Engine  |
-| Everything  | TranslateTB  |
-| PowerToys  | RoundTB  |
-| 火绒  | 酷呆桌面 ( coodesker ) |
-| 快贴  |  |
-| QuickLook  |  |
-| ActivityWatch  |  |
-| Snipaste  |  |
-| Onedrive  |  |
-| V2rays  |  |
-| Eartrumpet |  |
-
 ### C 盘软件
 
+### 状态栏与后台软件
+
+#### 系统增强
+
+- TrafficMonitor
+- ActivityWatch
+- Everything
+- PowerToys
+- QuickLook
+- Snipaste
+- Onedrive
+- V2rays
+- EarTrumpet
+- 火绒
+- ~~快贴~~
+
+#### 美化软件
+
+RoundTB
+酷呆桌面 ( coodesker )
+Wallpaper Engine
+TranslateTB
 roam research
 
 ### D 盘 software ( 轻 ) 300G
@@ -74,25 +80,9 @@ roam research
 24. islide tools
 25. 搜狗输入法 电脑上是 QQ 私人号
 26. B 站录播机
-
-### F 盘  Resources 400G
-
-### G 盘 Games and Data ( 重 ) 300G
-
-1. steam
-
-#### 代码软件
-
-- Git
-- VSCode
-- Tabby
-
-字体
-**B612 Mono**
-pt-momo
-未来莹黑
-霞鹜文楷
-
+27. Git
+28. VSCode
+29. Tabby
 DNS 修改软件
 rustdesk
 
@@ -107,6 +97,19 @@ rustdesk
 picgo
 
 可在 U 盘以及 OneDrive 里面各备份一份。
+
+### F 盘  Resources 400G
+
+#### 字体
+
+- **B612 Mono** **最喜欢的编码字体**
+- pt-momo
+- 未来莹黑 **最喜欢的中文字体，免费商用，在显示屏上体现中文的美感**
+- 霞鹜文楷
+
+### G 盘 Games and Data ( 重 ) 300G
+
+1. steam
 
 ---
 
